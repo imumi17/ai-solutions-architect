@@ -1,0 +1,7 @@
+.cursor/
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+credentials.json
